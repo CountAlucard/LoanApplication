@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoanApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_crear_prestamo">CrearPrestamoActivity</string>
+    <string name="title_activity_ver_informacion">VerInformacionActivity</string>
+    <string name="title_activity_abonar">AbonarActivity</string>
+    <string name="title_activity_cambiar_fecha">CambiarFechaActivity</string>
+</resources>
